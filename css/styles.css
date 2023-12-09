@@ -1,7 +1,10 @@
 .header {
-    background-color: aqua;
+  background-color: aqua;
+}
+.about {
+  color: blueviolet;
 }
 
 .hero {
-    color: blue;
+  color: blue;
 }
